@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/herbias.github.io/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/herbias.github.io/static/js/main.2b9ef06c.chunk.js",
-    "main.js.map": "/herbias.github.io/static/js/main.2b9ef06c.chunk.js.map",
+    "main.js": "/herbias.github.io/static/js/main.a8bb3e15.chunk.js",
+    "main.js.map": "/herbias.github.io/static/js/main.a8bb3e15.chunk.js.map",
     "runtime-main.js": "/herbias.github.io/static/js/runtime-main.d607768d.js",
     "runtime-main.js.map": "/herbias.github.io/static/js/runtime-main.d607768d.js.map",
-    "static/js/2.7d9553ac.chunk.js": "/herbias.github.io/static/js/2.7d9553ac.chunk.js",
-    "static/js/2.7d9553ac.chunk.js.map": "/herbias.github.io/static/js/2.7d9553ac.chunk.js.map",
+    "static/js/2.fdaca2ec.chunk.js": "/herbias.github.io/static/js/2.fdaca2ec.chunk.js",
+    "static/js/2.fdaca2ec.chunk.js.map": "/herbias.github.io/static/js/2.fdaca2ec.chunk.js.map",
     "static/js/3.5acd9351.chunk.js": "/herbias.github.io/static/js/3.5acd9351.chunk.js",
     "static/js/3.5acd9351.chunk.js.map": "/herbias.github.io/static/js/3.5acd9351.chunk.js.map",
     "index.html": "/herbias.github.io/index.html",
     "static/css/main.9d5b29c0.chunk.css.map": "/herbias.github.io/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.7d9553ac.chunk.js.LICENSE.txt": "/herbias.github.io/static/js/2.7d9553ac.chunk.js.LICENSE.txt"
+    "static/js/2.fdaca2ec.chunk.js.LICENSE.txt": "/herbias.github.io/static/js/2.fdaca2ec.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d607768d.js",
-    "static/js/2.7d9553ac.chunk.js",
+    "static/js/2.fdaca2ec.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.2b9ef06c.chunk.js"
+    "static/js/main.a8bb3e15.chunk.js"
   ]
 }
